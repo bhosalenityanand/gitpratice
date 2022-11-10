@@ -1,4 +1,4 @@
 console.log("hello akshay")
 
-let Name = "akshay kshirsagar"
+let Name = "akshay"
 console.log(Name)
